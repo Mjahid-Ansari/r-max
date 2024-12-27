@@ -42,6 +42,8 @@ cd rmax
 Use npm or yarn to install required packages:
 
 ```bash
+npm install vite --save-dev
+
 npm install
 # OR
 yarn install
